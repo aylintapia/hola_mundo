@@ -1,3 +1,20 @@
 body{
-	background:#6C0;
-	}
+	background: #6C0;
+	position: absolute;
+	left: 43%;
+	top: 40%;
+}
+.contenedor {
+	background-color: #0CF;
+	text-align: center;
+	height: 80px;
+	width: 250px;
+	vertical-align: middle;
+	margin: 0 auto;
+}
+.contenedor .boton {
+	position: absolute;
+	left: 40%;
+	top: 40%;
+	clip: rect(auto,auto,auto,auto);
+}
